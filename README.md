@@ -1,1 +1,1 @@
-Thisis a compilation of all my assignments and class works.
+This is a compilation of all my assignments and class works.
